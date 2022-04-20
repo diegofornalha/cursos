@@ -19,7 +19,7 @@
             {
                 "type": "Button",
                 "label": "SEJA UM PARCEIRO",
-                "url": "/",
+                "url": "https://coflow.com.br/parceiros/",
                 "altText": "SEJA UM PARCEIRO",
                 "style": "primary"
             }
