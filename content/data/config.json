@@ -16,7 +16,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "Todos os Cursos",
                 "altText": "",
                 "url": "/blog",
                 "showIcon": false,
